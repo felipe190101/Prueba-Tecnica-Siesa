@@ -19,12 +19,12 @@ namespace Prueba_Tecnica.Arboles
             subarboles.Add(subarbol);
         }
 
-        public class Program
+        /*public class ProgramArboles
         {
             public static void Main(string[] args)
             {
                 //Caso de prueba Arbol 1
-                /*var arbol = new Arbol(4);
+                var arbol = new Arbol(4);
                
                 var operaciones = new OperacionesArboles();
                 Console.WriteLine(operaciones.CalcularPesoTotal(arbol));
@@ -42,7 +42,7 @@ namespace Prueba_Tecnica.Arboles
                 var operaciones = new OperacionesArboles();
                 Console.WriteLine(operaciones.CalcularPesoTotal(arbol));
                 Console.WriteLine(operaciones.CalcularPesoPromedio(arbol));
-                Console.WriteLine(operaciones.CalcularAltura(arbol));*/
+                Console.WriteLine(operaciones.CalcularAltura(arbol));
 
                 //Caso de prueba Arbol 3
 
@@ -68,6 +68,6 @@ namespace Prueba_Tecnica.Arboles
                 Console.WriteLine(operaciones.CalcularPesoPromedio(arbol));
                 Console.WriteLine(operaciones.CalcularAltura(arbol));
             }
-        }
+        }*/
     }
 }
